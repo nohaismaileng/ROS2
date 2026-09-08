@@ -8,5 +8,6 @@ cd /ros2_ws
 source install/setup.bash
 
 gazebo
+gz sim shapes.sdf
 or
 rviz2
